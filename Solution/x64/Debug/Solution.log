@@ -1,0 +1,8 @@
+﻿  Solution.cpp
+D:\Programming\1)_Fundamentals\8)_Algorithms&ProblemSolving_L4\6)_Project_(1)\1)_Mentor_Solution\Solution\Solution.cpp(50,26): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+D:\Programming\1)_Fundamentals\8)_Algorithms&ProblemSolving_L4\6)_Project_(1)\1)_Mentor_Solution\Solution\Solution.cpp(1340,19): warning C4552: '!=': result of expression not used
+D:\Programming\1)_Fundamentals\8)_Algorithms&ProblemSolving_L4\6)_Project_(1)\1)_Mentor_Solution\Solution\Solution.cpp(709): warning C4715: 'DeleteClientByAccountNumber': not all control paths return a value
+D:\Programming\1)_Fundamentals\8)_Algorithms&ProblemSolving_L4\6)_Project_(1)\1)_Mentor_Solution\Solution\Solution.cpp(741): warning C4715: 'DeleteUserByAccountNumber': not all control paths return a value
+D:\Programming\1)_Fundamentals\8)_Algorithms&ProblemSolving_L4\6)_Project_(1)\1)_Mentor_Solution\Solution\Solution.cpp(778): warning C4715: 'UpdateClientByAccountNumber': not all control paths return a value
+D:\Programming\1)_Fundamentals\8)_Algorithms&ProblemSolving_L4\6)_Project_(1)\1)_Mentor_Solution\Solution\Solution.cpp(815): warning C4715: 'UpdateUserByAccountNumber': not all control paths return a value
+  Solution.vcxproj -> D:\Programming\1)_Fundamentals\8)_Algorithms&ProblemSolving_L4\6)_Project_(1)\1)_Mentor_Solution\Solution\x64\Debug\Solution.exe
